@@ -4,7 +4,7 @@ Android Tv app for live stream and watch later
 
 To start and react native app following are the commands 
 
-**for windows **
+**for windows**
 
 1. cd TVapp-master
 2. npm start 
